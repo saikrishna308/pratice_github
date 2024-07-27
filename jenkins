@@ -1,10 +1,7 @@
 import aws
 import kubernetes
-<<<<<<< Updated upstream
 import css
 import gcp
 import azure
-=======
-import sql = 8
+import sql =6
 import html5
->>>>>>> Stashed changes
